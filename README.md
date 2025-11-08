@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://images.hdqwalls.com/download/lofi-vibes-4k-h4-1920x1200.jpg" width="50%" height="50%">
+  <br>
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Ali+Mahdavi;A+Passionate+Developer+from+Iran&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </div>
 
@@ -91,11 +94,8 @@ Hello! 👋 I'm Ali Mahdavi, a Full-Stack software developer passionate about bu
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-mahdavi-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_color=00D9FF" alt="GitHub Stats" />
+<div align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mahdavi-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_color=00D9FF" alt="Top Languages" />
-
 </div>
 
 <div align="center">
