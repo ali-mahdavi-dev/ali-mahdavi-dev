@@ -105,10 +105,18 @@ A comprehensive **Enterprise E-Commerce Platform** built with modern technologie
 
 👉 **Check out the repositories** to see the full implementation, code structure, and detailed documentation. Feel free to explore, star ⭐, and contribute!
 
+**🔗 Repository Links:**
+
 <div align="center">
   
-  [![Shikposh Backend](https://img.shields.io/badge/Backend_Repository-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)](https://github.com/ali-mahdavi-dev/shikposh-backend)
-  [![Shikposh Frontend](https://img.shields.io/badge/Frontend_Repository-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117)](https://github.com/ali-mahdavi-dev/shikposh)
+  [![View Backend Code](https://img.shields.io/badge/View_Backend_Code-00ADD8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/ali-mahdavi-dev/shikposh-backend)
+  [![View Frontend Code](https://img.shields.io/badge/View_Frontend_Code-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/ali-mahdavi-dev/shikposh)
+  
+</div>
+
+<div align="center">
+  
+  📂 **[Backend Repository](https://github.com/ali-mahdavi-dev/shikposh-backend)** | 📂 **[Frontend Repository](https://github.com/ali-mahdavi-dev/shikposh)**
   
 </div>
 
