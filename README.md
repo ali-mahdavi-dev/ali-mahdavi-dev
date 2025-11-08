@@ -9,13 +9,13 @@
 
 ## 👨‍💻 About Me
 
-Hello! 👋 I'm Ali Mahdavi, a Full-Stack software developer passionate about building modern, scalable, and high-quality solutions.
+Hello 👋, my name is **Ali Mahdavi**, a passionate developer from Iran who is deeply fascinated by the world of technology and software engineering. Since my early start, I've always been captivated by how code can transform abstract ideas into tangible, real-world solutions. That curiosity has driven me to explore and master a wide range of technologies, from modern frontend frameworks to robust backend systems and scalable architecture patterns. My GitHub profile is not just a collection of repositories—it's a living record of my learning journey, experiments, and the projects I've proudly built over time.
 
-💻 I love learning new technologies and solving complex problems. Currently working on Enterprise projects with a focus on Clean Architecture, DDD, and Best Practices.
+Currently, my main focus lies in **Full-Stack Development & Software Engineering**. I love working with modern frameworks and tools like React, Next.js, TypeScript, and diving into backend technologies such as Go, Fiber, Node.js, and Express. Alongside that, I spend time experimenting with databases like PostgreSQL, MongoDB, Redis, and improving my DevOps skills with Docker, Kubernetes, Prometheus, and Grafana. Each project I build is a chance to refine my skills, learn something new, and push my limits. I believe that technology is not only about coding—it's about solving problems creatively and delivering value.
 
-🚀 I'm passionate about Open Source and always open to collaborating on interesting projects!
+Beyond just coding, I have a strong passion for **Software Architecture & Design Patterns**. I've been gradually mastering Clean Architecture, Domain-Driven Design (DDD), CQRS, and Event-Driven Architecture. Whether it's building microservices, implementing event sourcing, or designing scalable systems, I see architecture as the foundation of every great software solution. My long-term goal is to contribute to this field by building enterprise-grade applications that make a real difference. Every pattern I implement and every system I design brings me one step closer to mastering this fascinating domain.
 
-✨ **Interests**: Clean Architecture, DDD, CQRS, Microservices, Performance Optimization
+Outside of development, I enjoy sharing my journey, connecting with like-minded people, and constantly challenging myself to grow. I value tradition and the lessons from the past, but I'm equally driven by a forward-thinking vision. To me, being a developer means more than writing code—it's about building a future where ideas become innovations. This GitHub profile reflects not only my skills but also my dedication, passion, and determination to keep learning every single day. If you're here reading this, thank you for stopping by. Let's connect, collaborate, and build something meaningful together. 🚀
 
 <div align="center">
   
@@ -94,8 +94,11 @@ Hello! 👋 I'm Ali Mahdavi, a Full-Stack software developer passionate about bu
 
 ## 📊 GitHub Stats
 
-<div align="center">  
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-mahdavi-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_color=00D9FF" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mahdavi-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_color=00D9FF" alt="Top Languages" />
+
 </div>
 
 <div align="center">
@@ -178,7 +181,7 @@ Hello! 👋 I'm Ali Mahdavi, a Full-Stack software developer passionate about bu
 
 ## 🤝 Open to Collaborate
 
-I'm always open to collaborating on interesting and challenging projects! If you have a project that needs help or want to work together, I'd be happy to connect with you.
+I'm always open to collaborating on interesting and challenging projects! Whether you're working on an open-source initiative, building a startup, or tackling a complex technical problem, I'd love to be part of the journey. If you have a project that needs help or want to work together, I'd be happy to connect with you. Let's create something amazing! 💡
 
 ---
 
