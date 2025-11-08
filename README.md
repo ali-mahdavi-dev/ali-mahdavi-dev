@@ -77,13 +77,14 @@ A comprehensive **Enterprise E-Commerce Platform** built with modern technologie
 
 **🔧 Tech Stack:**
 
-- **Backend**: **Go**, **Fiber**, **Gin** | **Clean Architecture**, **DDD**, **CQRS**, **Event-Driven**
+- **Backend**: **Go**, **Fiber**, **Gin** | **Clean Architecture**, **Modular Architecture**, **DDD**, **CQRS**, **Event-Driven**
 - **Frontend**: **Next.js 15**, **React 19**, **TypeScript**, **Tailwind CSS**
 - **Infrastructure**: **PostgreSQL**, **Redis**, **Kafka**, **Docker**, **Prometheus**, **Grafana**
 
 **✨ Key Features:**
 
 - 🏗️ **Clean Architecture** with Domain-Driven Design
+- 🧩 **Modular Architecture** - Highly modular and maintainable codebase
 - 🔄 **CQRS** pattern for read/write separation
 - 📡 **Event-Driven** architecture with Kafka
 - ⚡ **Microservices** ready structure
@@ -94,6 +95,7 @@ A comprehensive **Enterprise E-Commerce Platform** built with modern technologie
 **📚 What You'll Find in the Repository:**
 
 - Complete **Clean Architecture** implementation
+- **Modular Architecture** - Well-organized, modular code structure
 - **DDD** patterns and domain modeling
 - **CQRS** with separate read/write models
 - **Event Sourcing** examples
