@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-Hello 👋, my name is **Ali Mahdavi**, a passionate **Full-Stack** developer from Iran who is deeply fascinated by the world of **technology** and **software engineering**. Currently, my main focus lies in **Full-Stack Development & Software Engineering**, working with modern frameworks like **React**, **Next.js**, **TypeScript**, and backend technologies such as **Go**, **Fiber**, **Node.js**, along with **databases** and **DevOps** tools. Beyond just coding, I have a strong passion for **Software Architecture & Design Patterns**, gradually mastering **Clean Architecture**, **Domain-Driven Design (DDD)**, **CQRS**, and **Event-Driven Architecture** to build **enterprise-grade applications**. I enjoy sharing my journey, connecting with like-minded people, and constantly challenging myself to grow. This GitHub profile reflects not only my skills but also my dedication, passion, and determination to keep learning every single day. If you're here reading this, thank you for stopping by. Let's connect, collaborate, and build something meaningful together. 🚀
+Hello 👋, my name is **Ali Mahdavi**, a passionate **Backend** developer from Iran who is deeply fascinated by the world of **technology** and **software engineering**. Currently, my main focus lies in **Backend Development**, specializing in **Go** with frameworks like **Fiber** and **Gin**, along with **Python** using **FastAPI** and **Django**. I also work with **React**, **Next.js**, **Vue**, and **Nuxt** for frontend development when needed. Beyond just coding, I have a strong passion for **Software Architecture & Design Patterns**, gradually mastering **Clean Architecture**, **Domain-Driven Design (DDD)**, **CQRS**, and **Event-Driven Architecture** to build **enterprise-grade applications**. I enjoy sharing my journey, connecting with like-minded people, and constantly challenging myself to grow. This GitHub profile reflects not only my skills but also my dedication, passion, and determination to keep learning every single day. If you're here reading this, thank you for stopping by. Let's connect, collaborate, and build something meaningful together. 🚀
 
 <div align="center">
   
@@ -22,12 +22,13 @@ Hello 👋, my name is **Ali Mahdavi**, a passionate **Full-Stack** developer fr
 
 ## 🛠️ Tech Stack
 
-### 🎯 Backend Development
+### 🎯 Backend Development (Primary Focus)
 
 <div align="center">
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)
 ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
@@ -35,12 +36,24 @@ Hello 👋, my name is **Ali Mahdavi**, a passionate **Full-Stack** developer fr
 
 </div>
 
+### 🐍 Python & FastAPI (Secondary Focus)
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117)
+
+</div>
+
 ### 🎨 Frontend Development
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0D1117)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white&labelColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&labelColor=0D1117)
@@ -127,13 +140,14 @@ Hello 👋, my name is **Ali Mahdavi**, a passionate **Full-Stack** developer fr
 
 <div align="center">
 
-| Category         | Technologies                                    |
-| ---------------- | ----------------------------------------------- |
-| **Backend**      | Go, Fiber, PostgreSQL, Redis, Kafka, Docker     |
-| **Frontend**     | Next.js, React, TypeScript, Tailwind CSS, Redux |
-| **Architecture** | Clean Architecture, DDD, CQRS, Event-Driven     |
-| **DevOps**       | Docker, Prometheus, Grafana, ELK Stack          |
-| **Tools**        | Git, GitHub, Linux, VS Code                     |
+| Category              | Technologies                                               |
+| --------------------- | ---------------------------------------------------------- |
+| **Backend (Primary)** | Go, Fiber, Gin, PostgreSQL, Redis, Kafka, Docker           |
+| **Python & FastAPI**  | Python, FastAPI, Django                                    |
+| **Frontend**          | React, Next.js, Vue, Nuxt, TypeScript, Tailwind CSS, Redux |
+| **Architecture**      | Clean Architecture, DDD, CQRS, Event-Driven                |
+| **DevOps**            | Docker, Prometheus, Grafana, ELK Stack                     |
+| **Tools**             | Git, GitHub, Linux, VS Code                                |
 
 </div>
 
