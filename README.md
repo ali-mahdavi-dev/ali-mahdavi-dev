@@ -18,39 +18,15 @@
 
 ---
 
-## 👨‍💻 درباره من | About Me
+## 👨‍💻 About Me
 
-<div align="right" dir="rtl">
+Hello! 👋 I'm Ali Mahdavi, a Full-Stack software developer passionate about building modern, scalable, and high-quality solutions.
 
-```persian
-سلام! 👋 من علی مهدوی هستم، یک توسعه‌دهنده نرم‌افزار Full-Stack با علاقه به ساخت
-راه‌حل‌های مدرن، مقیاس‌پذیر و با کیفیت بالا.
-
-💻 من عاشق یادگیری تکنولوژی‌های جدید و حل مسائل پیچیده هستم. در حال حاضر روی پروژه‌های
-Enterprise با تمرکز بر معماری‌های Clean، DDD و Best Practices کار می‌کنم.
-
-🚀 من به Open Source علاقه‌مندم و همیشه آماده همکاری در پروژه‌های جالب هستم!
-
-✨ علاقه‌مندی‌ها: Clean Architecture, DDD, CQRS, Microservices, Performance Optimization
-```
-
-</div>
-
-<div align="left" dir="ltr">
-
-```english
-Hello! 👋 I'm Ali Mahdavi, a Full-Stack software developer passionate about building
-modern, scalable, and high-quality solutions.
-
-💻 I love learning new technologies and solving complex problems. Currently working on
-Enterprise projects with a focus on Clean Architecture, DDD, and Best Practices.
+💻 I love learning new technologies and solving complex problems. Currently working on Enterprise projects with a focus on Clean Architecture, DDD, and Best Practices.
 
 🚀 I'm passionate about Open Source and always open to collaborating on interesting projects!
 
-✨ Interests: Clean Architecture, DDD, CQRS, Microservices, Performance Optimization
-```
-
-</div>
+✨ **Interests**: Clean Architecture, DDD, CQRS, Microservices, Performance Optimization
 
 <div align="center">
   
@@ -61,7 +37,7 @@ Enterprise projects with a focus on Clean Architecture, DDD, and Best Practices.
 
 ---
 
-## 🛠️ تکنولوژی‌ها و ابزارها | Tech Stack
+## 🛠️ Tech Stack
 
 ### 🎯 Backend Development
 
@@ -113,7 +89,7 @@ Enterprise projects with a focus on Clean Architecture, DDD, and Best Practices.
 
 ---
 
-## 📊 آمار GitHub | GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -130,22 +106,9 @@ Enterprise projects with a focus on Clean Architecture, DDD, and Best Practices.
 
 ---
 
-## 🚀 پروژه‌های برجسته | Featured Projects
+## 🚀 Featured Projects
 
 ### 🛍️ Shikposh - E-Commerce Platform
-
-<div align="right" dir="rtl">
-
-**پلتفرم تجارت الکترونیک با معماری Enterprise**
-
-- **Backend**: Go, Fiber, Clean Architecture, DDD, CQRS
-- **Frontend**: Next.js 15, React 19, TypeScript, Tailwind CSS
-- **Features**: Microservices, Event-Driven, Real-time, Monitoring
-- **Repository**: [shikposh](https://github.com/ali-mahdavi-dev/shikposh)
-
-</div>
-
-<div align="left" dir="ltr">
 
 **Enterprise E-Commerce Platform**
 
@@ -153,8 +116,6 @@ Enterprise projects with a focus on Clean Architecture, DDD, and Best Practices.
 - **Frontend**: Next.js 15, React 19, TypeScript, Tailwind CSS
 - **Features**: Microservices, Event-Driven, Real-time, Monitoring
 - **Repository**: [shikposh](https://github.com/ali-mahdavi-dev/shikposh)
-
-</div>
 
 <div align="center">
   
@@ -165,7 +126,7 @@ Enterprise projects with a focus on Clean Architecture, DDD, and Best Practices.
 
 ---
 
-## 💡 مهارت‌های کلیدی | Key Skills
+## 💡 Key Skills
 
 <div align="center">
 
@@ -181,7 +142,7 @@ Enterprise projects with a focus on Clean Architecture, DDD, and Best Practices.
 
 ---
 
-## 📈 فعالیت‌های من | My Activity
+## 📈 My Activity
 
 <div align="center">
   
@@ -191,7 +152,7 @@ Enterprise projects with a focus on Clean Architecture, DDD, and Best Practices.
 
 ---
 
-## 📚 در حال یادگیری | Currently Learning
+## 📚 Currently Learning
 
 <div align="center">
 
@@ -204,20 +165,7 @@ Enterprise projects with a focus on Clean Architecture, DDD, and Best Practices.
 
 ---
 
-## 🎯 اهداف | Goals
-
-<div align="right" dir="rtl">
-
-- [x] ✅ ساخت پروژه‌های Full-Stack با Clean Architecture
-- [ ] 🚀 یادگیری عمیق‌تر Microservices Architecture
-- [ ] ☸️ تسلط بر Kubernetes و Cloud Native Technologies
-- [ ] 🌐 ساخت پروژه‌های Open Source بیشتر
-- [ ] 🤝 مشارکت فعال در پروژه‌های جامعه توسعه‌دهندگان
-- [ ] 📖 نوشتن مقالات تکنیکی و به اشتراک گذاری دانش
-
-</div>
-
-<div align="left" dir="ltr">
+## 🎯 Goals
 
 - [x] ✅ Building Full-Stack projects with Clean Architecture
 - [ ] 🚀 Deep dive into Microservices Architecture
@@ -226,27 +174,15 @@ Enterprise projects with a focus on Clean Architecture, DDD, and Best Practices.
 - [ ] 🤝 Active contribution to developer community projects
 - [ ] 📖 Writing technical articles and sharing knowledge
 
-</div>
-
 ---
 
-## 🤝 آماده همکاری | Open to Collaborate
-
-<div align="right" dir="rtl">
-
-من همیشه آماده همکاری در پروژه‌های جالب و چالش‌برانگیز هستم! اگر پروژه‌ای دارید که نیاز به کمک دارد یا می‌خواهید با هم کار کنیم، خوشحال می‌شوم با شما در ارتباط باشم.
-
-</div>
-
-<div align="left" dir="ltr">
+## 🤝 Open to Collaborate
 
 I'm always open to collaborating on interesting and challenging projects! If you have a project that needs help or want to work together, I'd be happy to connect with you.
 
-</div>
-
 ---
 
-## 📫 ارتباط با من | Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
   
@@ -260,7 +196,7 @@ I'm always open to collaborating on interesting and challenging projects! If you
 
 ---
 
-## 💬 نقل قول مورد علاقه | Favorite Quote
+## 💬 Favorite Quote
 
 <div align="center">
   
@@ -272,25 +208,12 @@ I'm always open to collaborating on interesting and challenging projects! If you
 
 ---
 
-## 🎲 Fun Facts | حقایق جالب
-
-<div align="right" dir="rtl">
-
-- ☕ عاشق قهوه و کد نویسی در شب هستم
-- 🎮 در اوقات فراغت بازی می‌کنم
-- 📚 همیشه در حال یادگیری چیزهای جدید هستم
-- 🌙 ترجیح می‌دهم شب‌ها کد بزنم
-
-</div>
-
-<div align="left" dir="ltr">
+## 🎲 Fun Facts
 
 - ☕ Love coffee and coding at night
 - 🎮 Play games in my free time
 - 📚 Always learning something new
 - 🌙 Prefer coding at night
-
-</div>
 
 ---
 
@@ -309,8 +232,6 @@ I'm always open to collaborating on interesting and challenging projects! If you
 ---
 
 <div align="center">
-  
-  **ساخته شده با ❤️ توسط علی مهدوی**
   
   **Made with ❤️ by Ali Mahdavi**
   
