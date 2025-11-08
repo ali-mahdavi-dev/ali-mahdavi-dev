@@ -70,7 +70,7 @@ Hello 👋, my name is **Ali Mahdavi**, a passionate **Backend** developer from 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=0D1117)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0D1117)
-
+![Jaeger](https://img.shields.io/badge/Jaeger-F46800?style=for-the-badge&logo=jaeger&logoColor=white&labelColor=0D1117)
 </div>
 
 ---
