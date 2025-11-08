@@ -2,20 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Ali+Mahdavi;A+Passionate+Developer+from+Iran&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </div>
 
-<div align="center">
-  
-  ![GitHub followers](https://img.shields.io/github/followers/ali-mahdavi-dev?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
-  ![GitHub stars](https://img.shields.io/github/stars/ali-mahdavi-dev?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
-  ![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=ali-mahdavi-dev.ali-mahdavi-dev&style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ali-mahdavi-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)
-  
-</div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -89,18 +75,32 @@ Hello! 👋 I'm Ali Mahdavi, a Full-Stack software developer passionate about bu
 
 ---
 
+<div align="center">
+  
+  ![GitHub followers](https://img.shields.io/github/followers/ali-mahdavi-dev?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
+  ![GitHub stars](https://img.shields.io/github/stars/ali-mahdavi-dev?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
+  ![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=ali-mahdavi-dev.ali-mahdavi-dev&style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ali-mahdavi-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)
+  
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-mahdavi-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mahdavi-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-mahdavi-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_color=00D9FF" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mahdavi-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_color=00D9FF" alt="Top Languages" />
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.demolab.com/?user=ali-mahdavi-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ali-mahdavi-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
   
 </div>
 
