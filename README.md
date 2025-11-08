@@ -29,10 +29,11 @@ Hello 👋, my name is **Ali Mahdavi**, a passionate **Backend** developer from 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)
 ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=0D1117)
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0D1117)
+![DDD](https://img.shields.io/badge/DDD-4ECDC4?style=for-the-badge&logoColor=white&labelColor=0D1117)
+![CQRS](https://img.shields.io/badge/CQRS-45B7D1?style=for-the-badge&logoColor=white&labelColor=0D1117)
+![Event-Driven](https://img.shields.io/badge/Event_Driven-96CEB4?style=for-the-badge&logoColor=white&labelColor=0D1117)
 
 </div>
 
@@ -54,20 +55,6 @@ Hello 👋, my name is **Ali Mahdavi**, a passionate **Backend** developer from 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0D1117)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white&labelColor=0D1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&labelColor=0D1117)
-
-</div>
-
-### 🏗️ Architecture & Patterns
-
-<div align="center">
-
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0D1117)
-![DDD](https://img.shields.io/badge/DDD-4ECDC4?style=for-the-badge&logoColor=white&labelColor=0D1117)
-![CQRS](https://img.shields.io/badge/CQRS-45B7D1?style=for-the-badge&logoColor=white&labelColor=0D1117)
-![Event-Driven](https://img.shields.io/badge/Event_Driven-96CEB4?style=for-the-badge&logoColor=white&labelColor=0D1117)
 
 </div>
 
@@ -75,7 +62,10 @@ Hello 👋, my name is **Ali Mahdavi**, a passionate **Backend** developer from 
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=0D1117)
@@ -87,30 +77,7 @@ Hello 👋, my name is **Ali Mahdavi**, a passionate **Backend** developer from 
 
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/ali-mahdavi-dev?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
-  ![GitHub stars](https://img.shields.io/github/stars/ali-mahdavi-dev?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
-  ![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=ali-mahdavi-dev.ali-mahdavi-dev&style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
-  
-</div>
-
-<div align="center">
-  
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ali-mahdavi-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)
-  
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-mahdavi-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_color=00D9FF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mahdavi-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_color=00D9FF" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-  
-  <img src="https://streak-stats.demolab.com/?user=ali-mahdavi-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
   
 </div>
 
