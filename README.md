@@ -9,15 +9,7 @@
 
 ## 👨‍💻 About Me
 
-Hello 👋, my name is **Ali Mahdavi**, a passionate Full-Stack developer from Iran who is deeply fascinated by the world of technology and software engineering. I've always been captivated by how code can transform abstract ideas into tangible, real-world solutions.
-
-Currently, my main focus lies in **Full-Stack Development & Software Engineering**. I love working with modern frameworks like React, Next.js, TypeScript, and backend technologies such as Go, Fiber, Node.js, along with databases like PostgreSQL, MongoDB, Redis, and DevOps tools like Docker, Kubernetes, and Prometheus.
-
-Beyond just coding, I have a strong passion for **Software Architecture & Design Patterns**. I'm gradually mastering Clean Architecture, Domain-Driven Design (DDD), CQRS, and Event-Driven Architecture to build enterprise-grade applications that make a real difference.
-
-I enjoy sharing my journey, connecting with like-minded people, and constantly challenging myself to grow. To me, being a developer means more than writing code—it's about building a future where ideas become innovations.
-
-This GitHub profile reflects not only my skills but also my dedication, passion, and determination to keep learning every single day. If you're here reading this, thank you for stopping by. Let's connect, collaborate, and build something meaningful together. 🚀
+Hello 👋, my name is **Ali Mahdavi**, a passionate **Full-Stack** developer from Iran who is deeply fascinated by the world of **technology** and **software engineering**. Currently, my main focus lies in **Full-Stack Development & Software Engineering**, working with modern frameworks like **React**, **Next.js**, **TypeScript**, and backend technologies such as **Go**, **Fiber**, **Node.js**, along with **databases** and **DevOps** tools. Beyond just coding, I have a strong passion for **Software Architecture & Design Patterns**, gradually mastering **Clean Architecture**, **Domain-Driven Design (DDD)**, **CQRS**, and **Event-Driven Architecture** to build **enterprise-grade applications**. I enjoy sharing my journey, connecting with like-minded people, and constantly challenging myself to grow. This GitHub profile reflects not only my skills but also my dedication, passion, and determination to keep learning every single day. If you're here reading this, thank you for stopping by. Let's connect, collaborate, and build something meaningful together. 🚀
 
 <div align="center">
   
