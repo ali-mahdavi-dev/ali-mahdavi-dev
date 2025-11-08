@@ -133,10 +133,3 @@ A comprehensive **Enterprise E-Commerce Platform** built with modern technologie
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/ali_mahdavi_dev)
   
 </div>
----
-
-<div align="center">
-  
-  **Made with ❤️ by Ali Mahdavi**
-  
-</div>
