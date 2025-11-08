@@ -11,13 +11,6 @@
 
 Hello 👋, my name is **Ali Mahdavi**, a passionate **Backend** developer from Iran who is deeply fascinated by the world of **technology** and **software engineering**. Currently, my main focus lies in **Backend Development**, specializing in **Go** with frameworks like **Fiber** and **Gin**, along with **Python** using **FastAPI** and **Django**. I also work with **React**, **Next.js**, **Vue**, and **Nuxt** for frontend development when needed. Beyond just coding, I have a strong passion for **Software Architecture & Design Patterns**, gradually mastering **Clean Architecture**, **Domain-Driven Design (DDD)**, **CQRS**, and **Event-Driven Architecture** to build **enterprise-grade applications**. I enjoy sharing my journey, connecting with like-minded people, and constantly challenging myself to grow. This GitHub profile reflects not only my skills but also my dedication, passion, and determination to keep learning every single day. If you're here reading this, thank you for stopping by. Let's connect, collaborate, and build something meaningful together. 🚀
 
-<div align="center">
-  
-  ![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
-  ![Looking for Opportunities](https://img.shields.io/badge/Looking%20for%20Opportunities-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)
-  
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -37,7 +30,7 @@ Hello 👋, my name is **Ali Mahdavi**, a passionate **Backend** developer from 
 
 </div>
 
-### 🐍 Python & FastAPI (Secondary Focus)
+## 🐍 Python & FastAPI (Secondary Focus)
 
 <div align="center">
 
@@ -47,7 +40,7 @@ Hello 👋, my name is **Ali Mahdavi**, a passionate **Backend** developer from 
 
 </div>
 
-### 🎨 Frontend Development
+# 🎨 Frontend Development
 
 <div align="center">
 
@@ -72,14 +65,6 @@ Hello 👋, my name is **Ali Mahdavi**, a passionate **Backend** developer from 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0D1117)
 ![Jaeger](https://img.shields.io/badge/Jaeger-F46800?style=for-the-badge&logo=jaeger&logoColor=white&labelColor=0D1117)
 
-</div>
-
----
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ali-mahdavi-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)
-  
 </div>
 
 ---
