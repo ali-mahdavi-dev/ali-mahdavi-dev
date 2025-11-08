@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=سلام+%F0%9F%91%8B+من+علی+مهدوی+هستم;Hello%2C+I'm+Ali+Mahdavi;%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3+%D9%88+%D9%85%D8%B7%D8%A7%D9%84%D8%B9%D9%87+%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Ali+Mahdavi;A+Passionate+Developer+from+Iran&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </div>
 
 <div align="center">
