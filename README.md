@@ -15,7 +15,7 @@ Hello 👋, my name is **Ali Mahdavi**, a passionate **Backend** developer from 
 
 ## 🛠️ Tech Stack
 
-### 🎯 Backend Development (Primary Focus)
+# 🎯 Backend Development (Primary Focus)
 
 <div align="center">
 
@@ -40,7 +40,7 @@ Hello 👋, my name is **Ali Mahdavi**, a passionate **Backend** developer from 
 
 </div>
 
-# 🎨 Frontend Development
+### 🎨 Frontend Development
 
 <div align="center">
 
