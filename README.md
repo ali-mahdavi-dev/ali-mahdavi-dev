@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.hdqwalls.com/download/lofi-vibes-4k-h4-1920x1200.jpg" width="100%" height="75%">
+  <img src="https://images.hdqwalls.com/download/lofi-vibes-4k-h4-1920x1200.jpg" width="90%" height="65%">
   <br>
   <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Ali+Mahdavi;A+Passionate+Developer+from+Iran&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
