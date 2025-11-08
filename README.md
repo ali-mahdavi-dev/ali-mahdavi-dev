@@ -71,6 +71,7 @@ Hello 👋, my name is **Ali Mahdavi**, a passionate **Backend** developer from 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=0D1117)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0D1117)
 ![Jaeger](https://img.shields.io/badge/Jaeger-F46800?style=for-the-badge&logo=jaeger&logoColor=white&labelColor=0D1117)
+
 </div>
 
 ---
@@ -85,37 +86,45 @@ Hello 👋, my name is **Ali Mahdavi**, a passionate **Backend** developer from 
 
 ## 🚀 Featured Projects
 
-### 🛍️ Shikposh - E-Commerce Platform
+### 🛍️ Shikposh - Enterprise E-Commerce Platform
 
-**Enterprise E-Commerce Platform**
+A comprehensive **Enterprise E-Commerce Platform** built with modern technologies and best practices. This project showcases my expertise in **Backend Development** with **Go** and **Clean Architecture** patterns.
 
-- **Backend**: Go, Fiber, Clean Architecture, DDD, CQRS
-- **Frontend**: Next.js 15, React 19, TypeScript, Tailwind CSS
-- **Features**: Microservices, Event-Driven, Real-time, Monitoring
-- **Repository**: [shikposh](https://github.com/ali-mahdavi-dev/shikposh)
+**🔧 Tech Stack:**
+
+- **Backend**: **Go**, **Fiber**, **Gin** | **Clean Architecture**, **DDD**, **CQRS**, **Event-Driven**
+- **Frontend**: **Next.js 15**, **React 19**, **TypeScript**, **Tailwind CSS**
+- **Infrastructure**: **PostgreSQL**, **Redis**, **Kafka**, **Docker**, **Prometheus**, **Grafana**
+
+**✨ Key Features:**
+
+- 🏗️ **Clean Architecture** with Domain-Driven Design
+- 🔄 **CQRS** pattern for read/write separation
+- 📡 **Event-Driven** architecture with Kafka
+- ⚡ **Microservices** ready structure
+- 📊 **Real-time** monitoring and observability
+- 🔐 **JWT** authentication and authorization
+- 📦 **Docker** containerization
+
+**📚 What You'll Find in the Repository:**
+
+- Complete **Clean Architecture** implementation
+- **DDD** patterns and domain modeling
+- **CQRS** with separate read/write models
+- **Event Sourcing** examples
+- Comprehensive **API documentation** (Swagger)
+- **Docker Compose** setup for local development
+- **Monitoring** stack with Prometheus & Grafana
+- **Unit tests** and integration tests
+- **CI/CD** pipeline examples
+
+👉 **Check out the repositories** to see the full implementation, code structure, and detailed documentation. Feel free to explore, star ⭐, and contribute!
 
 <div align="center">
   
-  [![Shikposh Backend](https://img.shields.io/badge/Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)](https://github.com/ali-mahdavi-dev/shikposh-backend)
-  [![Shikposh Frontend](https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117)](https://github.com/ali-mahdavi-dev/shikposh)
+  [![Shikposh Backend](https://img.shields.io/badge/Backend_Repository-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)](https://github.com/ali-mahdavi-dev/shikposh-backend)
+  [![Shikposh Frontend](https://img.shields.io/badge/Frontend_Repository-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117)](https://github.com/ali-mahdavi-dev/shikposh)
   
-</div>
-
----
-
-## 💡 Key Skills
-
-<div align="center">
-
-| Category              | Technologies                                               |
-| --------------------- | ---------------------------------------------------------- |
-| **Backend (Primary)** | Go, Fiber, Gin, PostgreSQL, Redis, Kafka, Docker           |
-| **Python & FastAPI**  | Python, FastAPI, Django                                    |
-| **Frontend**          | React, Next.js, Vue, Nuxt, TypeScript, Tailwind CSS, Redux |
-| **Architecture**      | Clean Architecture, DDD, CQRS, Event-Driven                |
-| **DevOps**            | Docker, Prometheus, Grafana, ELK Stack                     |
-| **Tools**             | Git, GitHub, Linux, VS Code                                |
-
 </div>
 
 ---
@@ -128,38 +137,6 @@ Hello 👋, my name is **Ali Mahdavi**, a passionate **Backend** developer from 
 
 </div>
 
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white&labelColor=0D1117)
-
-</div>
-
----
-
-## 🎯 Goals
-
-- [x] ✅ Building Full-Stack projects with Clean Architecture
-- [ ] 🚀 Deep dive into Microservices Architecture
-- [ ] ☸️ Master Kubernetes and Cloud Native Technologies
-- [ ] 🌐 Build more Open Source projects
-- [ ] 🤝 Active contribution to developer community projects
-- [ ] 📖 Writing technical articles and sharing knowledge
-
----
-
-## 🤝 Open to Collaborate
-
-I'm always open to collaborating on interesting and challenging projects! Whether you're working on an open-source initiative, building a startup, or tackling a complex technical problem, I'd love to be part of the journey. If you have a project that needs help or want to work together, I'd be happy to connect with you. Let's create something amazing! 💡
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -169,35 +146,6 @@ I'm always open to collaborating on interesting and challenging projects! Whethe
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:ali.mahdavi.dev@gmail.com)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117)](https://twitter.com/ali_mahdavi_dev)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/ali_mahdavi_dev)
-  
-</div>
-
----
-
-## 💬 Favorite Quote
-
-<div align="center">
-  
-  > "The best way to predict the future is to create it."
-  > 
-  > — Peter Drucker
-
-</div>
-
----
-
-## 🎲 Fun Facts
-
-- ☕ Love coffee and coding at night
-- 🎮 Play games in my free time
-- 📚 Always learning something new
-- 🌙 Prefer coding at night
-
----
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/ali-mahdavi-dev/ali-mahdavi-dev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
