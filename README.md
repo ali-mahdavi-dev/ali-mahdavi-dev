@@ -9,7 +9,10 @@
 
 ## 👨‍💻 About Me
 
-Hello 👋, my name is **Ali Mahdavi**, a passionate **Backend** developer from Iran who is deeply fascinated by the world of **technology** and **software engineering**. Currently, my main focus lies in **Backend Development**, specializing in **Go** with frameworks like **Fiber** and **Gin**, along with **Python** using **FastAPI** and **Django**. I also work with **React**, **Next.js**, **Vue**, and **Nuxt** for frontend development when needed. Beyond just coding, I have a strong passion for **Software Architecture & Design Patterns**, gradually mastering **Clean Architecture**, **Domain-Driven Design (DDD)**, **CQRS**, and **Event-Driven Architecture** to build **enterprise-grade applications**. I enjoy sharing my journey, connecting with like-minded people, and constantly challenging myself to grow. This GitHub profile reflects not only my skills but also my dedication, passion, and determination to keep learning every single day. If you're here reading this, thank you for stopping by. Let's connect, collaborate, and build something meaningful together. 🚀
+Hi 👋 I'm Ali Mahdavi, a Software Engineer focused on building reliable and scalable backend systems.
+I mainly work with Go (Fiber, Gin) and also enjoy using Python (FastAPI, Django) when needed.
+I’m passionate about Software Architecture, especially Clean Architecture, DDD, CQRS, and Event-Driven Design.
+I love writing clean code, learning new things, and building systems that truly make sense. 🚀
 
 ---
 
